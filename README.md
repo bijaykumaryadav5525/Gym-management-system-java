@@ -46,3 +46,9 @@ A comprehensive desktop application built in **Java** using **Swing** for GUI an
 | Draw.io | Class diagrams & wireframes |
 
 ## 📁 Project Structure
+GymManagementSystem/
+├── GymMember.java # Abstract parent class
+├── RegularMember.java # Regular member subclass
+├── PremiumMember.java # Premium member subclass
+├── GymGUI.java # Main GUI application
+└── *.txt # Data storage files
